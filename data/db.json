@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "name": "Title 1",
+      "content": "random text 1",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "name": "Title 2",
+      "content": "random text 2",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "name": "title 3",
+      "content": "A paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragraphs add one idea at a time to your broader argument.",
+      "category": "Facts",
+      "id": 3
+    },
+    {
+      "name": "title 4",
+      "content": "A paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragraphs add one idea at a time to your broader argument.",
+      "category": "News",
+      "id": 4
+    },
+    {
+      "name": "title 5",
+      "content": "random text is here",
+      "category": "News",
+      "id": 5
+    },
+    {
+      "name": "title 6",
+      "content": "Existing solutions like React wrapped DeSandro Masonry, while popular, don't actually leverage React's highly optimized Virtual DOM renderer and in DeSandro Masonry's case, actually renders elements twice before showing the layout. All of this is ok but we found it to lead to a slow, \"laggy\" user experience that would occasionally miss-render our layout.",
+      "category": "Facts",
+      "id": 6
+    },
+    {
+      "name": "title 7",
+      "content": "Existing solutions like React wrapped DeSandro Masonry, while popular, don't actually leverage React's highly optimized Virtual DOM renderer and in DeSandro Masonry's case, actually renders elements twice before showing the layout. All of this is ok but we found it to lead to a slow, \"laggy\" user experience that would occasionally miss-render our layout.",
+      "category": "Fun",
+      "id": 8
+    }
+  ]
+}
