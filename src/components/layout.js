@@ -42,7 +42,7 @@ const Layout = ( {children}) => {
     const location=useLocation();
     const menuItems=[
         {
-            text:'My Notes',
+            text:'My writings',
             icon:<SubjectOutlined color="primary"/>,
             path:'/'
         },
